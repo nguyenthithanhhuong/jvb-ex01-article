@@ -1,0 +1,93 @@
+:root {
+    --black-color: #000;
+    --white-color: #fff;
+    --border-color: rgba(0,0,0,0.16);
+    --border-social-color: #EAEAEA;
+
+    --header-height: 133px;
+    --footer-height: 464px;
+}
+
+* {
+    box-sizing: inherit;
+}
+
+html {
+    font-size: 62.5%;
+    line-height: 2.387rem;
+    box-sizing: border-box;
+    overflow-x: hidden;
+}
+
+body {
+    overflow-x: hidden;
+}
+
+.hidden-desktop {
+    display: none;
+}
+
+.row {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.row-996 {
+    width: 996px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.col {
+    width: 304px;
+    margin: 0 14px;
+    padding-bottom: 34px;
+}
+
+.col-640 {
+    width: 640px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.col-850 {
+    width: 850px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.margin-left-31 {
+    margin-left: 31px;
+}
+
+.margin-left-34 {
+    margin-left: 34px;
+}
+
+.margin-left-36 {
+    margin-left: 36px;
+}
+
+.padding-top-53 {
+    padding-top: 53px;
+}
+
+.padding-top-52 {
+    padding-top: 52px;
+}
+
+.padding-top-33 {
+    padding-top: 33px;
+}
+
+.padding-top-32 {
+    padding-top: 32px;
+}
+
