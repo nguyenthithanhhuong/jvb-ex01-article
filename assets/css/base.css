@@ -63,6 +63,10 @@ body {
     margin-right: auto;
 }
 
+.width-282 {
+    width: 282px !important;
+}
+
 .margin-left-31 {
     margin-left: 31px;
 }

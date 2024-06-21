@@ -1,5 +1,5 @@
 /* mobile */
-@media (max-width: 992px) {
+@media (max-width: 991px) {
     :root {
         --header-height: 65px;
     }
@@ -31,6 +31,10 @@
 
     .hidden-mobile {
         display: none;
+    }
+
+    .content__line {
+        margin-top: 58px;
     }
 
     .header {
@@ -124,6 +128,7 @@
     }
 
     .blog-image-title {
+        width: 310px;
         font-size: 1.3rem;
         line-height: 1.82rem;
     }
@@ -148,13 +153,18 @@
     }
 
     .blog-author-intro {
-        padding: 24px 0px 91px;
+        padding: 24px 0px 81px;
+    }
+
+    .blog-eye-icon {
+        width: 65.6px;
+        height: 52px;
     }
 
     .content__article-title {
         font-size: 3.2rem;
         line-height: 3.819rem;
-        padding: 62px 0px 29px;
+        padding: 29px 0px;
     }
 
     .content__article-img {
@@ -181,7 +191,7 @@
     }
 
     .signup-desc {
-        width: 306px;
+        width: 280px;
         font-size: 1.6rem;
         line-height: 2.24rem;
     }
@@ -218,11 +228,6 @@
         justify-content: center;
         align-items: center;
     }
-
-    .content__line:nth-child(2) {
-        border-bottom: 1px var(--black-color solid);
-    }
-    
 
     .footer {
         margin-top: 52px;
