@@ -167,6 +167,7 @@
 }
  
 .blog-item {
+    font-family: 'New York Medium', sans-serif;
     list-style: none;
     font-size: 2.0rem;
     line-height: 3.4rem;
