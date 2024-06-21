@@ -104,6 +104,10 @@ body {
     font-family: 'New York Small', sans-serif;
 }
 
+.ny-medium {
+    font-family: 'New Medium', sans-serif;
+}
+
 .ny-extra-large {
     font-family: 'New York Extra Large', sans-serif;
 }
