@@ -151,6 +151,12 @@
     .author-intro {
         font-size: 1.4rem;
         line-height: 2.24rem;
+        width: 260px;
+    }
+
+    .author-sub-desc {
+        font-size: 1.4rem;
+        line-height: 2.24rem;
     }
 
     .blog-author-intro {
@@ -237,6 +243,7 @@
     .footer__feature-list {
         font-size: 1.6rem;
         line-height: 2.8rem;
+        justify-content: center;
     }
 
     .name-page-footer {
